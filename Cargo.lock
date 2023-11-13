@@ -134,7 +134,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "eccomerce_trend_trove_rust"
+name = "ecommerce_trend_trove_api_rust"
 version = "0.1.0"
 dependencies = [
  "postgres",
